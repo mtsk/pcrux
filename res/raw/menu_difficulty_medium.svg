@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1473"
+   height="320"
+   id="svg3528"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Button_Difficulty_Medium.svg">
+  <defs
+     id="defs3530">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter6439-1-2-1-4">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22946982"
+         id="feGaussianBlur6441-7-1-7-0" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4157-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4155-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4153-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4151-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3320"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3318"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3316"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3314"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8"
+     inkscape:cx="752.72733"
+     inkscape:cy="84.285668"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3533">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-732.36218)">
+    <path
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30792606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 960.37087,872.4587 1.30975,129.1037 -233.14875,-0.9255 5.23938,-102.7276 z"
+       id="path4211"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30792606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 507.17159,929.8381 -1.30975,71.2616 222.67003,-0.4628 1.30994,-100.8767 z"
+       id="path4213"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30792606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1194.8296,843.769 1.3097,126.79 -60.252,28.6898 -175.51643,0.9255 -1.30974,-128.1784 z"
+       id="path4215"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:7.84143209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 1197.1391,843.4894 219.11098,963.2826 c 3.3166,20.8554 51.93936,37.3039 111.83115,37.3039 l 754.17647,0 c 62.0546,0 112.0205,-17.6522 112.0205,-39.5749 l 0,-117.5222 z"
+       id="path4217"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4219"
+       sodipodi:cx="-385.71429"
+       sodipodi:cy="1560.4166"
+       sodipodi:rx="7.1428576"
+       sodipodi:ry="6.8452382"
+       d="m -378.57144,1560.4166 c 0,3.7805 -3.19796,6.8453 -7.14285,6.8453 -3.9449,0 -7.14286,-3.0648 -7.14286,-6.8453 0,-3.7805 3.19796,-6.8452 7.14286,-6.8452 3.94489,0 7.14285,3.0647 7.14285,6.8452 z"
+       transform="matrix(1.2750049,0,0,1.2750049,1202.2156,-1200.6201)"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 678.09697,910.6249 C 704.61885,807.4842 704.61885,807.4842 704.61885,807.4842"
+       id="path4221"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4223"
+       width="17.845612"
+       height="108.3301"
+       x="888.20496"
+       y="535.40662"
+       ry="9.7888641"
+       transform="matrix(0.94672711,0.32203691,-0.26645353,0.96384777,0,0)"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <rect
+       transform="matrix(-0.98673943,0.16231234,0.27257026,0.96213588,0,0)"
+       ry="6.5577531"
+       y="938.39636"
+       x="-455.62643"
+       height="72.572479"
+       width="15.991148"
+       id="rect4225"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4227"
+       width="31.652807"
+       height="11.248169"
+       x="898.39667"
+       y="649.80865"
+       ry="5.6240849"
+       transform="matrix(0.97585003,0.21844158,-0.25187108,0.9677608,0,0)"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <rect
+       ry="5.6257176"
+       y="-358.21042"
+       x="1026.1235"
+       height="11.251435"
+       width="31.934244"
+       id="rect4229"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.37475691,0.92712311,-0.9124354,0.40922077,0,0)"
+       inkscape:transform-center-x="-2.6129215"
+       inkscape:transform-center-y="-0.45485954"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4231"
+       width="5.3043818"
+       height="75.145409"
+       x="846.48383"
+       y="722.66199"
+       ry="2.6521909"
+       transform="matrix(0.99205664,0.125792,-0.125792,0.99205664,0,0)"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4233"
+       width="16.207832"
+       height="42.435055"
+       x="864.14166"
+       y="588.84448"
+       ry="2.6521909"
+       transform="matrix(0.9640668,0.26565995,-0.26565995,0.9640668,0,0)"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:4.35635138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 503.24215,929.8381 c 0,68.4852 0,68.4852 0,68.4852"
+       id="path4235"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4237"
+       d="m 731.15156,902.8443 c 0,96.4045 0,96.4045 0,96.4045"
+       style="fill:none;stroke:#ffffff;stroke-width:4.35635138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:4.35635138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 959.06113,872.1472 c 0,126.1761 0,126.1761 0,126.1761"
+       id="path4239"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Liam\Google Drive\PowerCrux\Design\Finall\Menu_Button_Dificulty_Normal.png"
+       inkscape:export-xdpi="89.089615"
+       inkscape:export-ydpi="89.089615" />
+  </g>
+</svg>

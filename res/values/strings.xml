@@ -1,0 +1,61 @@
+<resources>
+    
+    <string name="app_name">pCrux Multiplayer 2,3,4 Player</string>
+    <string name="app_name_short">pCrux Multiplayer</string> 
+    
+    <!-- menu -->
+    <string name="btnStartDesc">Get ready, we\'re starting.</string>
+    <string name="btnPowercruxDesc">Navigate to our homepage.</string>
+    <string name="btnSoundDesc">Turn game sounds on or off.</string>
+    <string name="btnHelpDesc">Shows game description.</string>
+    <string name="btnMusicDesc">Turn music on or off.</string>
+    
+    <string name="playerDesc">Number of players.</string>
+    
+    <string name="players_prompt">PLAYERS</string>
+    <string-array name="players_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="mode_prompt">MODE</string>
+    <string-array name="mode_array">
+        <item>COOLit</item>
+        <item>HITit</item>
+    </string-array>
+    <string name="difficulty_prompt">DIFFICULTY</string>
+    <string-array name="difficulty_array">
+        <item>EASY</item>
+        <item>MEDIUM</item>
+        <item>HARD</item>
+    </string-array>
+    
+    <!-- playground -->
+    <string name="btnNextRoud">Start next round.</string>
+    <string name="btnRestart">Restart game.</string>
+    <string name="btnContinue">Continue game.</string>
+    <string name="btnMenu">Go to game menu.</string>
+    <string name="winnercup">Winner receives a cup!</string>
+    
+    <!-- dialogs -->
+    <string name="dialog_ismaroik_url">Redirect to web page?\nhttp://ismaroik.com/pcrux.htm</string>
+    <string name="dialog_ismaroik_url_ok">OK</string>
+    <string name="dialog_ismaroik_url_cancel">Cancel</string>
+    
+    <string name="dialog_help">H E L P</string>
+    <string name="dialog_help_ok">OK</string>
+    <string name="dialog_help_video">Video</string>
+    
+    <!-- spinner area -->
+    <string name="scoreDescCurrentRound">ROUND</string>
+    <string name="scoreDescTotal">TOTAL DEGREES</string>
+    
+    <string name = "player1">PLAYER 1</string>
+    <string name = "player2">PLAYER 2</string>
+    <string name = "player3">PLAYER 3</string>
+    <string name = "player4">PLAYER 4</string>
+    
+    <string name="hititCenterText">TARGET</string>
+    <string name="coolitCenterText">DEGREES LEFT</string>
+
+</resources>

@@ -1,0 +1,87 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:background="@drawable/background"
+     >
+     
+    	<ImageButton
+	        android:id="@+id/btnPowercrux"
+	        android:layout_width="165dp"
+	        android:layout_height="100dp"
+	        android:layout_x="0dp"
+	        android:layout_y="0dp"
+	        android:contentDescription="@string/btnPowercruxDesc"
+	        android:focusableInTouchMode="true"
+	        android:onClick="btnPowercrux"
+	        android:scaleType="fitXY"
+	        android:background="@drawable/btnpowercrux_selector"/>
+    	
+    	<ImageButton
+	        android:id="@+id/btnHelp"
+	        android:layout_width="165dp"
+	        android:layout_height="100dp"
+	        android:layout_x="165dp"
+	        android:layout_y="0dp"
+	        android:contentDescription="@string/btnHelpDesc"
+	        android:onClick="btnHelp"
+	        android:scaleType="fitXY"
+	        android:background="@drawable/btnhelp_selector"/>
+		    
+	    <com.ismaroik.powercrux.androidspinnerext.SpinnerExtended 
+        	android:id="@+id/players"
+	        android:layout_width="165dp"
+	        android:layout_height="50dp"
+	        android:layout_x="50dp"
+	        android:layout_y="110dp"
+	        android:background="@drawable/spinnerplayer_selector"/>
+	    
+	    <com.ismaroik.powercrux.androidspinnerext.SpinnerExtended 
+	        android:id="@+id/mode"
+	        android:layout_width="165dp"
+	        android:layout_height="50dp"
+	        android:layout_x="50dp"
+	        android:layout_y="160dp"
+	        android:background="@drawable/spinner_selector"/>
+	    
+	    <com.ismaroik.powercrux.androidspinnerext.SpinnerExtended 
+	        android:id="@+id/difficulty"
+	        android:layout_width="165dp"
+	        android:layout_height="50dp"
+	        android:layout_x="50dp"
+	        android:layout_y="210dp"
+	        android:background="@drawable/spinner_selector"/>
+	    
+	    <ImageButton
+	        android:id="@+id/btnMusic"
+	        android:layout_width="165dp"
+	        android:layout_height="100dp"
+	        android:layout_x="165dp"
+	        android:layout_y="360dp"
+	        android:contentDescription="@string/btnMusicDesc"
+	        android:onClick="btnMusic"
+	        android:scaleType="fitXY"
+	        android:background="@drawable/btnmusicon_selector" />
+	    
+	    <ImageButton
+	        android:id="@+id/btnSound"
+	        android:layout_width="165dp"
+	        android:layout_height="100dp"
+	        android:layout_x="0dp"
+	        android:layout_y="360dp"
+	        android:contentDescription="@string/btnSoundDesc"
+	        android:onClick="btnSound"
+	        android:scaleType="fitXY"
+	        android:background="@drawable/btnsoundon_selector" />
+	    
+	    <ImageButton
+	        android:id="@+id/btnStart"
+	        android:layout_width="100dp"
+	        android:layout_height="100dp"
+	        android:layout_x="50dp"
+	        android:layout_y="260dp"
+	        android:contentDescription="@string/btnStartDesc"
+	        android:onClick="startGame"
+	        android:scaleType="centerInside"
+	        android:background="@drawable/btnplay_selector"
+	        android:text="@string/btnStartDesc" />
+</AbsoluteLayout>	    

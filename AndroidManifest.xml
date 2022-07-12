@@ -1,0 +1,45 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ismaroik.powercrux"
+    android:versionCode="7"
+    android:versionName="1.1.5"
+    android:installLocation="auto" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="19" />
+    
+    <!-- disable compatibility mode -->
+    <supports-screens 
+       	android:smallScreens="true" 
+        android:normalScreens="true" 
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+        android:anyDensity="true" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:allowBackup="true"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+        android:hardwareAccelerated="false" >
+        <activity
+            android:name=".MenuActivity"
+           	android:label="@string/app_name_short"
+            android:screenOrientation="portrait">
+            <intent-filter
+                android:label="@string/app_name_short">
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PlaygroundActivity"
+            android:label="@string/app_name_short"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.NoBackground" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ismaroik.powercrux.GameMenuActivity" />
+        </activity>
+    </application>
+</manifest>
